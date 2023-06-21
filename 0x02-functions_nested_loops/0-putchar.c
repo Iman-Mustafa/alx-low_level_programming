@@ -1,6 +1,3 @@
-
-0-putchar.c
-
 #include "main.h"
 /**
  * main - print _putchar
