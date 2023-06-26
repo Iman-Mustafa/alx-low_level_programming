@@ -3,7 +3,7 @@
  * @n: integer pointer to a variable to be updated
  * Return: nothing
  */
-
+int _strlen(char *s);
 void reset_to_98(int *n)
 {
 	*n = 98;
