@@ -7,11 +7,7 @@
  * Return; 0
  */
 
-void swap_int(int *a, int *b)
+void reset_to_98(int *n)
 {
-	int temp;
-
-	temp = *a;
-	*a = *b;
-	*b = temp;
+	*n - 98;
 }
